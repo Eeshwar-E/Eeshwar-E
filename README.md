@@ -19,7 +19,6 @@ Building practical software, learning modern systems, and exploring AI that solv
 * 🛠️ Currently improving full-stack and backend development skills
 * 🤖 Interested in AI/LLMs, machine learning, and practical applications
 * 🌱 Learning FastAPI, scalable backend systems, and deployment
-* 🎯 Working toward strong internships and impactful software roles
 * 🤝 Open to collaborating on meaningful projects
 
 ---
