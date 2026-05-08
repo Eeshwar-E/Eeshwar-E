@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Eeshwar
+# Hi, I'm Eeshwar
 
 <div align="center">
 
@@ -13,13 +13,13 @@ Building practical software, learning modern systems, and exploring AI that solv
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-* 🎓 Computer Science student focused on software development and AI
-* 🛠️ Currently improving full-stack and backend development skills
-* 🤖 Interested in AI/LLMs, machine learning, and practical applications
-* 🌱 Learning FastAPI, scalable backend systems, and deployment
-* 🤝 Open to collaborating on meaningful projects
+*  Computer Science student focused on software development and AI
+*  Currently improving full-stack and backend development skills
+*  Interested in AI/LLMs, machine learning, and practical applications
+*  Learning FastAPI, scalable backend systems, and deployment
+*  Open to collaborating on meaningful projects
 
 ---
 
